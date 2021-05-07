@@ -36,7 +36,7 @@ Modify "headless" true to false, until you test enough.
 Edit item depend on what item you want to monitor.<br>  
 There are example on default item.json file.<br>  
 
-3.
+3.<br> 
 Captcha ByPass required Python3.
 It is strongly recommended to install.
 
