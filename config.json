@@ -1,13 +1,13 @@
 {
     "amazon_account" : "",
     "amazon_password" : "",
-    "headless" : false,
+    "headless" : true,
     "price" : 4000,
     "refreshInterval" : 2000,
     "AwsRefreshInterval" : 7000,
     "CartRreshInterval" : 1000,
     "ConflictInterval" : 30000,
-    
+
     "aws" : 0,
     "cart" : 0,
     "MultiMode" : 0,
