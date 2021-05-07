@@ -16,6 +16,8 @@ Functionality
 ✔Allow Singe tab mode and Multi tab Mode<br>  
 ✔telegram alert<br>  
 
+![image](https://github.com/dannycheungho/AmazonPurchasingBot/blob/main/botgithub.png)
+
 Installation
 -------
 
