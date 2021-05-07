@@ -22,6 +22,7 @@ Installation
 Requirements
 -------
 NodeJS Chrome or Chromium.
+Python3(option)
 
 Config Setting
 -------
@@ -34,6 +35,10 @@ Modify "headless" true to false, until you test enough.
 2.<br>  
 Edit item depend on what item you want to monitor.<br>  
 There are example on default item.json file.<br>  
+
+3.
+Captcha ByPass required Python3.
+It is strongly recommended to install.
 
 Quick Start
 -------
