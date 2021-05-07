@@ -1,0 +1,42 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "https": "^1.0.0",
+    "puppeteer": "^8.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-adblocker": "^2.11.11",
+    "puppeteer-extra-plugin-click-and-wait": "^2.2.9",
+    "puppeteer-extra-plugin-stealth": "^2.7.6",
+    "python-shell": "^3.0.0",
+    "sound-play": "^1.1.0",
+    "store": "^2.0.12",
+    "tesseract.js": "^2.1.1",
+    "user-agents": "^1.0.619",
+    "winston": "^3.3.3"
+  },
+  "name": "amazonpurchasingbot",
+  "version": "1.0.1",
+  "description": "nodejs",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node --max_old_space_size=10240 main.js",
+    "test": "node --max_old_space_size=10240 test.js"
+  },
+  "author": "Danny",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannycheungho/AmazonPurchasingBot.git"
+  },
+  "keywords": [
+    "amazon",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/dannycheungho/AmazonPurchasingBot/issues"
+  },
+  "homepage": "https://github.com/dannycheungho/AmazonPurchasingBot#readme"
+}
